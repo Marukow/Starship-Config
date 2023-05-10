@@ -5,6 +5,7 @@
 3. [Starship](https://starship.rs/)
 
 **Reference:**
+
 Powershell and Rust:
 
 <a href="https://ibb.co/g7zYyBr"><img src="https://i.ibb.co/H2nZ7kK/config.png" alt="config" border="0"></a>
